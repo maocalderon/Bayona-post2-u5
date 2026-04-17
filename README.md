@@ -1,3 +1,5 @@
+autor: esteban mauricio calderon
+
 # Biblioteca API v2
 
 API REST para gestión de biblioteca desarrollada con Spring Boot 3.2.0 y Java 25.
@@ -40,25 +42,6 @@ src/main/java/com/universidad/patrones/
 - Maven 3.8+
 - IDE (VS Code, IntelliJ, Eclipse)
 
-## Configuración del JDK en VS Code
-
-1. Instalar la extensión "Extension Pack for Java"
-2. Presionar `Ctrl+Shift+P` y buscar "Java: Configure Java Runtime"
-3. Seleccionar el JDK 17 instalado
-4. Guardar y reiniciar VS Code
-
-## Ejecución del Proyecto
-
-### Desde terminal:
-```bash
-cd biblioteca-api-v2
-mvn spring-boot:run
-```
-
-### Desde VS Code:
-1. Abrir el proyecto en VS Code
-2. Presionar `F5` o hacer clic en el botón "Run" en la clase principal
-3. Verificar en la terminal que aparezca: "Started BibliotecaApiApplication"
 
 ## Endpoints de la API
 
