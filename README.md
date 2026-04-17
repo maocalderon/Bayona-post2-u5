@@ -99,7 +99,3 @@ Una vez iniciado el proyecto, accede a:
 3. Commit de cambios (`git commit -m 'Agregar nueva característica'`)
 4. Push a la rama (`git push origin feature/nueva-caracteristica`)
 5. Crear Pull Request
-
-## Licencia
-
-Este proyecto es para fines educativos - Universidad.
