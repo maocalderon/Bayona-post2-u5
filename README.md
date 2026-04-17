@@ -1,6 +1,6 @@
 # Biblioteca API v2
 
-API REST para gestión de biblioteca desarrollada con Spring Boot 3.2.0 y Java 17.
+API REST para gestión de biblioteca desarrollada con Spring Boot 3.2.0 y Java 25.
 
 ## Descripción
 
@@ -79,14 +79,13 @@ Una vez iniciado el proyecto, accede a:
 ## Capturas de Pantalla
 
 ### 1. Swagger UI - Lista de Endpoints
-![Swagger UI](ruta-a-captura-swagger.png)
+![Swagger UI] ![alt text](image.png)
 
 ### 2. Error 404 - Libro no encontrado
-![Error 404](ruta-a-captura-error.png)
+![Error 404]![alt text](image-1.png)
 
 ### 3. Terminal - Aplicación iniciada correctamente
-![Terminal](ruta-a-captura-terminal.png)
-
+![Terminal] ![alt text](image-2.png)
 ## Ejemplos de Uso
 
 ### Crear un libro (POST)
